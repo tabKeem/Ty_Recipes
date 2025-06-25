@@ -1,1 +1,1 @@
-# Ty-Recipes
+# Ty_Recipes
